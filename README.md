@@ -1,7 +1,3 @@
 # FlutterLiftPt
 
-## Getting Started
-
-![auth](https://postfiles.pstatic.net/MjAyMzEyMDdfMTQx/MDAxNzAxOTI4MTY1ODkz.CUjoqNueyP7xebFEQWzfRjJUd6Md0D7quNkznq5n9qQg.Bmna6l5KRi6VEVO5sz6gahr1mqvCCxNBxLEsujyAJQkg.PNG.umm0714/auth.png?type=w966){: width="50%" height="50%"}
-
-<img src="[/img/myImg.png](https://postfiles.pstatic.net/MjAyMzEyMDdfMTQx/MDAxNzAxOTI4MTY1ODkz.CUjoqNueyP7xebFEQWzfRjJUd6Md0D7quNkznq5n9qQg.Bmna6l5KRi6VEVO5sz6gahr1mqvCCxNBxLEsujyAJQkg.PNG.umm0714/auth.png?type=w966)https://postfiles.pstatic.net/MjAyMzEyMDdfMTQx/MDAxNzAxOTI4MTY1ODkz.CUjoqNueyP7xebFEQWzfRjJUd6Md0D7quNkznq5n9qQg.Bmna6l5KRi6VEVO5sz6gahr1mqvCCxNBxLEsujyAJQkg.PNG.umm0714/auth.png?type=w966" width="200" height="200">
+![Summary](https://postfiles.pstatic.net/MjAyMzEyMDdfMzkg/MDAxNzAxOTI4NTU1OTM5.5JD2yMbCSm-_DFeJlaa4yOUQiufBDjrTMwn20aKsl4og.ILKvRqOVOgCec19vfrXvlb-N90hdNJX7ldYA8bx-6K0g.PNG.umm0714/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001_(4).png?type=w966)
